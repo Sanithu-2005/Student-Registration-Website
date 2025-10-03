@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\User\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\User\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form2.resources
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.exe.config
+C:\Users\User\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form3.resources
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student Management System.exe.config
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form2.resources
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form3.resources
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\User\Desktop\SMS Final Project (E-soft)\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
